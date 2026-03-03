@@ -18,6 +18,10 @@ This repository provides a clean and concise reference guide for executing **Apa
 * Active Java Runtime (JRE/JDK 17 recommended).
 
 ---
-*Author- **Kajal Shakya***
-* **GitHub:** https://github.com/kajalshakya29
-* **LinkedIn:** https://www.linkedin.com/in/kajal-shakya-417485243/
+## Author  
+**Kajal Shakya**  
+Backend Developer | Java, Spring Boot, Microservices, Hibernate, REST APIs  
+📍Agra, Uttar Pradesh  
+- Github- https://github.com/kajalshakya29
+- LinkedIn- https://www.linkedin.com/in/kajal-shakya-417485243/
+- LeetCode- https://leetcode.com/u/kajal_shakya/
